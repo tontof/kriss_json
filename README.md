@@ -3,7 +3,7 @@ KrISS json
 
 A simple and smart (or stupid) json schema validator
 
-This project was an hobby when exploring the functional programming in PHP. It is not intendnded to be used in the real world, but for now (2023-05), it valids old drafts to draft7.
+This project was an hobby when exploring the functional programming in PHP. It is not intended to be used in the real world, but for now (2023-05), it valids old drafts to draft7.
 
 ```bash
 php schema/test.php
