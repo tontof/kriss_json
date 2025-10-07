@@ -142,7 +142,7 @@ function schema_search($schema, $search, $attr) {
             }
         }
     }
-    return [];    
+    return [];
 }
 
 function schema_from_id($schema, $id) {

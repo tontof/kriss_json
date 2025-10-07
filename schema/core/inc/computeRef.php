@@ -25,7 +25,7 @@ function compute_ref_schema_base($base, $relative) {
     $relative = implode("#", $hash);
     return $base.$relative;
 }
-    
+
 function compute_ref_schema(&$schema, $id = "") {
     if (isset($schema->{'$ref'})) {
         if (empty($id)) {

@@ -1,7 +1,7 @@
 <?php
 // KrISS json: a simple and smart (or stupid) json schema validator
 // Copyleft (ɔ) - Tontof - https://tontof.net
-// use KrISS feed at your own risk
+// use KrISS json at your own risk
 
 include_once(__DIR__ . '/json.php');
 
